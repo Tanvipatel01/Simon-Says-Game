@@ -22,10 +22,10 @@ A browser-based memory game built with HTML, CSS, and JavaScript.
 
 ## 📂 Project Structure
 simon-says-game/
-
-index12.html
-style12.css
-app12.js
+│
+├── index12.html
+├── style12.css
+└── app12.js
 
 ## 🚀 How to Run
 1. Clone the repo
